@@ -1,5 +1,5 @@
 {
-    "name": "oliveira/buscador-cursos",
+    "name": "oliveira-fp/buscador-cursos",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
     "autoload": {
