@@ -10,10 +10,8 @@ Pacote desenvolvido durante o curso de Composer da Alura. Este projeto utiliza a
 
 ## Tecnologias Utilizadas
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="14" height="14"/> PHP
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="14" height="14"/> Composer
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/guzzle/guzzle-original.svg" width="14" height="14"/> GuzzleHttp
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="14" height="14"/> Symfony DomCrawler
+- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> PHP
+- <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"/> Composer
 
 ## Instalação
 
